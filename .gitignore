@@ -1,0 +1,10 @@
+x64
+*.opensdf
+*.sdf
+*.suo
+LightLDA_Inference/x64
+LightLDA_Inference/*.filters
+LightLDA_Inference/*.user
+LightLDA_Inference/*.0
+LightLDA_Inference/*.txt
+LightLDA_Inference/*.model
